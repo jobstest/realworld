@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "npx playwright test",
+    "report": "npx playwright show-report",
+    "codegen": "npx playwright codegen",
+    "ui": "npx playwright test --ui"},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jobstest/realworld.git"
