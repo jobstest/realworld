@@ -6,3 +6,8 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+/tests-examples
+auth.json
+downloads
+.idea
+fixtures/auth/
